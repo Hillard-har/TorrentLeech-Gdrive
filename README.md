@@ -5,9 +5,9 @@
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-#deploy
+# Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hillard-har/STEM-V.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hillard-har/TorrentLeech-Gdrive)
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
